@@ -1,8 +1,8 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[![My header](https://avatars.githubusercontent.com/u/102219125?s=96&v=4)](https://github.com/HakerHunter)
+## I'm a QA student. 
+## Learning the craft of testing
+## My git
+[Link to my git](https://github.com/HakerHunter)
 
 ## Latest Youtube Videos
 
