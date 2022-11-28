@@ -1,4 +1,4 @@
-[![My header](https://avatars.githubusercontent.com/u/102219125?s=96&v=4)](https://github.com/HakerHunter)
+![My header](..\HakerHunter\for Profile\kosmos.jpg)
 ## I'm a QA student
 ## Learning the craft of testing
 ## My git
