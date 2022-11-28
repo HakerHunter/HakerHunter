@@ -2,17 +2,7 @@
 ## I'm a QA student
 ## Learning the craft of testing
 ## My git
-[Link to my git](https://github.com/HakerHunter)
-
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Youtrack -  обзор ф для тестировщика &lpar;QA&rpar;](https://www.youtube.com/watch?v=Z5tUf4VHVQA)
-- [ТЕСТИРОВАНИЕ НА ПРИМЕРЕ GEEKBRAINS. ЧТО ДЕЛАЕТ ТЕСТИРОВЩИК?](https://www.youtube.com/watch?v=TF_MEwZx_u0)
-- [Как написать правильный  отчёт о дефекте &lpar;баг репорт&rpar;?](https://www.youtube.com/watch?v=faWdtll7KNc)
-- [QASE - обзор TMS для тестировщика &lpar;QA&rpar;](https://www.youtube.com/watch?v=Cj6jHmsnWiU)
-- [GitHub &lpar;git&rpar; для тестировщика &lpar;QA&rpar;. Полный курс](https://www.youtube.com/watch?v=GviyJKK6yD8)
-<!-- YOUTUBE:END -->
+[![Header](https://img.shields.io/badge/Github-740055?style=for-the-badge&logo=github&logoColor=8cc4d7)](https://github.com/HakerHunter)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -38,11 +28,8 @@
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
-### Follow Me
-[![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)](https://github.com/HakerHunter)
-
 ### Contacts
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/KirillTitovA)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
+[![Header](https://img.shields.io/badge/Telegram-740055?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/KirillTitovA)
+[![Header](https://img.shields.io/badge/Linkedin-740055?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
 
 ![HakerHunter GitHub stats](https://github-readme-stats.vercel.app/api?username=hakerhunter&show_icons=true&theme=radical)
