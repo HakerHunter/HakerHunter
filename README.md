@@ -1,4 +1,4 @@
-![My header]([for Profile\kosmos.jpg](https://disk.yandex.ru/i/CyH2LQQFjwLiGg))
+[![My header]([for Profile\kosmos.jpg](https://disk.yandex.ru/i/CyH2LQQFjwLiGg))
 ## I'm a QA student
 ## Learning the craft of testing
 ## My git
