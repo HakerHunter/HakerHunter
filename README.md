@@ -1,4 +1,4 @@
-![My header](..\HakerHunter\for Profile\kosmos.jpg)
+![My header](..\for Profile\kosmos.jpg)
 ## I'm a QA student
 ## Learning the craft of testing
 ## My git
