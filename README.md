@@ -1,4 +1,4 @@
-![My header]([[for Profile\kosmos.jpg](https://disk.yandex.ru/i/CyH2LQQFjwLiGg)](https://downloader.disk.yandex.ru/preview/8b1df4207548a476f652577e1ed26465b7b9510548cdcae8e4360ee16b98b955/63856ee7/LMUiqvrhsdfsJ0vMr0XkWjGY1ZgDZJokNngqa8cTdFBM6FY7x7kv6b4ztjq9KBekIgmqsayot4GVfublDvQ7EA%3D%3D?uid=0&filename=kosmos-76-foto-68-1536x1024.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048))
+![My header](https://downloader.disk.yandex.ru/preview/8b1df4207548a476f652577e1ed26465b7b9510548cdcae8e4360ee16b98b955/63856ee7/LMUiqvrhsdfsJ0vMr0XkWjGY1ZgDZJokNngqa8cTdFBM6FY7x7kv6b4ztjq9KBekIgmqsayot4GVfublDvQ7EA%3D%3D?uid=0&filename=kosmos-76-foto-68-1536x1024.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
 ## I'm a QA student
 ## Learning the craft of testing
 ## My git
