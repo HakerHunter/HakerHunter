@@ -22,11 +22,11 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/HakerHunter/Checklists)
+- [Test-Suites and Test-Cases](https://github.com/HakerHunter/test-cases)
+- [Bug-Reports](https://github.com/HakerHunter/Test-Suites-and-Test-Cases)
+- [SQL Queries](https://github.com/HakerHunter/SQL)
+- [Postman Collections](https://github.com/HakerHunter/postman)
 
 ### Contacts
 [![Header](https://img.shields.io/badge/Telegram-740055?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/KirillTitovA)
