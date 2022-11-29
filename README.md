@@ -23,10 +23,10 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/HakerHunter/Checklists)
-- [Test-Suites and Test-Cases](https://github.com/HakerHunter/test-cases)
-- [Bug-Reports](https://github.com/HakerHunter/Test-Suites-and-Test-Cases)
-- [SQL Queries](https://github.com/HakerHunter/SQL)
-- [Postman Collections](https://github.com/HakerHunter/postman)
+- [Test-Suites and Test-Cases](https://github.com/HakerHunter/Test-Suites-and-Test-Cases)
+- [Bug-Reports](https://github.com/HakerHunter/Bug-Reports)
+- [SQL Queries](https://github.com/HakerHunter/SQL-Queries)
+- [Postman Collections](https://github.com/HakerHunter/Postman-Collections)
 
 ### Contacts
 [![Header](https://img.shields.io/badge/Telegram-740055?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/KirillTitovA)
